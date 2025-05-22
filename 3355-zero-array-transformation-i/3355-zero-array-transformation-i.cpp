@@ -15,9 +15,9 @@ public:
     //             return true;
     int n=nums.size();
     vector<int> diff(n,0);
-    for( auto &query:queries){
-        int start=query[0];
-        int end=query[1];
+    for(int i=0;i<queries.size();i++){
+        int start=queries[i][0];
+        int end=queries[i][1];
         int x=1;
         diff[start]+=x;
 
