@@ -56,7 +56,6 @@ public:
             // Apply subtraction on the copy `remaining`
             for (int i = l; i <= r; i++) {
                 if (remaining[i] > 0) {  // only consider positive values
-                    int before = remaining[i];
                     remaining[i] -= val;  // subtract value
 
                     if (remaining[i] <= 0) {
