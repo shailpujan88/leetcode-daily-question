@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words">2131. Longest Palindrome by Concatenating Two Letter Words</a></h2><h3>Medium</h3><hr><p>You are given an array of strings <code>words</code>. Each element of <code>words</code> consists of <strong>two</strong> lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/?envType=daily-question&envId=2025-05-25">2131. Longest Palindrome by Concatenating Two Letter Words</a></h2><h3>Medium</h3><hr><p>You are given an array of strings <code>words</code>. Each element of <code>words</code> consists of <strong>two</strong> lowercase English letters.</p>
 
 <p>Create the <strong>longest possible palindrome</strong> by selecting some elements from <code>words</code> and concatenating them in <strong>any order</strong>. Each element can be selected <strong>at most once</strong>.</p>
 
