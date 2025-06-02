@@ -1,16 +1,19 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        std::vector<int> aboveRow(n, 1);
-
-        for (int row = 1; row < m; row++) {
-            std::vector<int> currentRow(n, 1);
-            for (int col = 1; col < n; col++) {
-                currentRow[col] = currentRow[col - 1] + aboveRow[col];
+       vector<vector<int>> dp(m,(vector<int>(n)));
+        dp[0][0] = 1;
+        for(int i=0;i<m;i++){
+            for(int j =0;j<n;j++){
+                int up=0;
+                int left=0;
+                if(i-1>=0)  up = dp[i-1][j];
+                if(j-1>=0)  left = dp[i][j-1];
+                int sum=0;
+                sum+= up+left;
+                dp[i][j]+=sum;
             }
-            aboveRow = currentRow;
         }
-
-        return aboveRow[n - 1]; 
+        return dp[m-1][n-1]; 
     }
 };
