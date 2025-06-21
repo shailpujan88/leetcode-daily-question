@@ -10,7 +10,7 @@ public:
                         dp[ind][buy]=max(-prices[ind]+dp[ind+1][0],0+dp[ind+1][1]);
                     }
                     else{
-                        dp[ind][buy]=max(prices[ind]-fee+dp[ind+1][1],0+dp[ind+1][0]);
+                        dp[ind][buy]=max(prices[ind]-fee+dp[ind+1][0],0+dp[ind+1][1]);
                     }
             }
         }
