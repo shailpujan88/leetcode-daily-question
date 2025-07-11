@@ -39,7 +39,7 @@ public:
                 }
             }
         }
-
-        return -1;
+        if(effort[n-1][n-1] == 1e9)return -1;
+        return effort[n-1][n-1]+1;
     }
 };
