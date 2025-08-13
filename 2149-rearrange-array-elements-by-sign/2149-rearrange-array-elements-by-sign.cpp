@@ -1,19 +1,26 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
- vector<int>ans(nums.size(),0);
-  int posIndex=0,negIndex=1;
-         for(int i = 0;i<nums.size();i++){
-      if(nums[i]<0){
-          ans[negIndex] = nums[i];
-          negIndex+=2;
-      }
-    
-      else{
-          ans[posIndex] = nums[i];
-          posIndex+=2;
-      }
-  }
-  return ans;
+        int i = 0; // for +ve integers
+    int j = 1; // for -ve integers
+    vector<int> ans(nums.size());
+    for (int k = 0; k < nums.size(); k++)
+    {
+        if (nums[k] >= 0)
+        {
+            ans[i] = nums[k];
+            i += 2;
+        }
+        else
+        {
+            ans[j] = nums[k];
+            j += 2;
+        }
+    }
+    return ans;
+}
+
+// TIME COMPLEXITY = O(N)
+// SPACE COMPLEXITY = O(0)
     }
 };
