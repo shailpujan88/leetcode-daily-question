@@ -3,11 +3,10 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
-        int col0 = 1; // Flag for first column
+        int col0 = 1; 
 
-        // Step 1: Mark rows and columns that should be zero
        for(int i = 0; i < n; i++) {
-    for(int j = 0; j < m; j++) { // ✅ fix: use m instead of n
+    for(int j = 0; j < m; j++) { 
         if(matrix[i][j] == 0) {
             matrix[i][0] = 0;
             if(j != 0) {
