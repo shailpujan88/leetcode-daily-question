@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
