@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2906-construct-product-matrix/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,10 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Greedy
@@ -105,4 +109,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 <!---LeetCode Topics End-->
