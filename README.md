@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1871-jump-game-vii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -20,10 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0396-rotate-function/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1871-jump-game-vii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -76,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1871-jump-game-vii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
