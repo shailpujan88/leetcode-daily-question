@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2906-construct-product-matrix/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3161-block-placement-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Math
@@ -179,4 +181,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3093-longest-common-suffix-queries/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3161-block-placement-queries/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
