@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2126-destroying-asteroids](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Simulation
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2126-destroying-asteroids/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
