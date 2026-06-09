@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
