@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-flip-square-submatrix-vertically](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3161-block-placement-queries/) | Hard |
+| [3691-maximum-total-subarray-value-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
