@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
