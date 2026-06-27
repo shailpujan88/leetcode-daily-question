@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0396-rotate-function](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0396-rotate-function/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1340-jump-game-v/) | Hard |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
