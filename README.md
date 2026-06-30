@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Array
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/shailpujan88/leetcode-daily-question/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2540-minimum-common-value/) | Easy |
