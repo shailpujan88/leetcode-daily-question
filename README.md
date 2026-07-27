@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1340-jump-game-v/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1840-maximum-building-height/) | Hard |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shailpujan88/leetcode-daily-question/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shailpujan88/leetcode-daily-question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/shailpujan88/leetcode-daily-question/tree/main/3620-network-recovery-pathways/) | Hard |
